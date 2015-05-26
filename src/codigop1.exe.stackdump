@@ -1,0 +1,9 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=004028F6
+eax=01F4FFFD ebx=00000000 ecx=B678C01D edx=000000A0 esi=61275F00 edi=611A1E9F
+ebp=0028AC68 esp=0028AC00 program=H:\CodigoP1\dist\Debug\Cygwin_4.x-Windows\codigop1.exe, pid 4608, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0028AC68  004028F6  (00000003, 0028AC90, 80010100, 61276003)
+0028ACF8  6100763A  (00000000, 0028CD78, 61006C50, 00000000)
+End of stack trace
